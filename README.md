@@ -7,17 +7,7 @@ _图1：_![image](https://github.com/Ruibin-Ningh/3D-nine-grid-game/assets/13214
 玩家在吃掉球为**获胜**，随后进入**下一关**
 除了第一关，其他关均是**随机生成位置**，**不存在生成在玩家的位置上。**
 # 代码展示
-本项目只有唯一一个C#脚本，具体代码呈现：
-# 3D九宫格游戏
-这是一个3D的九宫格游戏，引擎为Unity。This is a 3D nine grid game, engine Unity.
-玩家可以使用**WASD**来进行'方块'的移动，如图1
-_图1：_![image](https://github.com/Ruibin-Ningh/3D-nine-grid-game/assets/132149419/afd5e749-bdd4-4aa1-9266-2a0e48ffffd2)_中间的正方体为玩家_
-### 游戏规则
-玩家在九宫格内移动，每操控正方体移动的距离是**1格**。
-玩家在吃掉球为**获胜**，随后进入**下一关**
-除了第一关，其他关均是**随机生成位置**，**不存在生成在玩家的位置上。**
-# 代码展示
-本项目只有唯一一个C#脚本，具体代码呈现：
+本项目只有唯一一个C#脚本，具体代码呈现
 ```C#
 using System.Collections;
 using System.Collections.Generic;
